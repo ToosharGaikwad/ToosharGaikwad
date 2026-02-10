@@ -1,5 +1,25 @@
-## Hi there 👋
+ Hi 👋 I'm Tushar
 
+💻 Java Backend Developer  
+📍 Pune, India  
+
+## 🛠 Skills
+- Java
+- JDBC
+- Collections
+- Spring Boot (learning)
+- Git & GitHub
+
+
+## 📚 Projects
+- Student Management System (Java)
+- JDBC Practice Programs
+- E-commerce Project (Java, JSP, Servlet)
+
+## 🎯 Currently Learning
+- Spring Boot
+- Microservices
+- Angular basics
 <!--
 **ToosharGaikwad/ToosharGaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
