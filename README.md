@@ -1,36 +1,44 @@
- Hi 👋 I'm Tushar
+# Hi 👋 I'm Tushar
 
 💻 Java Backend Developer  
 📍 Pune, India  
 
-## 🛠 Skills
-- Java
-- JDBC
-- Collections
-- Spring Boot (learning)
-- Git & GitHub
+## 👨‍💻 About Me
+Java Backend Developer with **2 years of experience** in building backend applications using **Java, Spring, Spring Boot, Hibernate, and MySQL**.  
+Experienced in developing **REST APIs, database integration, CRUD operations, authentication modules, and backend business logic**.  
 
+Currently expanding my skills in:
+- **AWS**
+- **DevOps tools**
+- **Linux**
+- **Microservices**
+- **Angular basics**
+
+I enjoy working on backend systems, solving coding problems, and building scalable Java applications.
+
+---
+
+## 🛠 Skills
+- **Languages & Core Concepts:** Java, OOPs, Collections, Exception Handling
+- **Backend:** JDBC, Servlet, JSP, Spring, Spring Boot, Hibernate, REST APIs
+- **Database:** MySQL
+- **Version Control:** Git, GitHub
+- **Currently Learning:** AWS, DevOps Tools, Linux, Microservices, Angular Basics
+
+---
 
 ## 📚 Projects
-- Student Management System (Java)
-- JDBC Practice Programs
-- E-commerce Project (Java, JSP, Servlet)
+- **Food Delivery Application** – Java backend project with authentication, order management, and database integration
+- **E-commerce Project** – Built using Java, JSP, Servlet, JDBC, and MySQL
+- **Student Management System** – Java-based CRUD application
+- **JDBC Practice Programs** – Hands-on database connectivity and query execution practice
+
+---
 
 ## 🎯 Currently Learning
-- Spring Boot
-- Microservices
+- Spring Boot advanced concepts
+- Microservices architecture
+- AWS cloud basics
+- DevOps tools (Docker, Jenkins, CI/CD)
+- Linux commands and server basics
 - Angular basics
-<!--
-**ToosharGaikwad/ToosharGaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
