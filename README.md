@@ -4,7 +4,7 @@
 📍 Pune, India  
 
 ## 👨‍💻 About Me
-Java Backend Developer with **2 years of experience** in building backend applications using **Java, Spring, Spring Boot, Hibernate, and MySQL**.  
+Java Backend Developer with **2+ years of experience** in building backend applications using **Java, Spring, Spring Boot, Hibernate, and MySQL**.  
 Experienced in developing **REST APIs, database integration, CRUD operations, authentication modules, and backend business logic**.  
 
 Currently expanding my skills in:
